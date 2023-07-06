@@ -1,0 +1,10 @@
+#include "stdio.h"
+
+int main(void)
+{
+	while(1)
+	{
+		printf("first 2 see you! pretty cool! \r\n");
+	}
+return 0;
+}
